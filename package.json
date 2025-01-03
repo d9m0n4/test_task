@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://d9m0n4.github.io/test_task/",
+  "homepage": "https://d9m0n4.github.io/test_task",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
