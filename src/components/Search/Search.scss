@@ -1,0 +1,12 @@
+.products__search {
+  padding: 16px;
+  input {
+    padding: 8px 16px;
+    width: 320px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    &:focus {
+      outline: none;
+    }
+  }
+}
